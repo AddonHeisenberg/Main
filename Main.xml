@@ -1,0 +1,47 @@
+<dir>
+
+     <name>>>>>ADDON HEISENBERG<<<<</name>
+
+     <link>http://dabutcher.org/test/screeners.xml</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>http://dabutcher.org/test/pic/Screeners.png</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart></fanart>
+
+</dir>
+
+<item>
+
+<title>Deadpool (2017)</title>
+
+<meta>
+
+<content>movie</content>
+
+<imdb>tt5726616</imdb>
+
+<title>Deadpool</title>
+
+<year>2017</year>
+
+</meta>
+
+<link>
+
+<sublink>https://drive.google.com/a/sec27.edu.mx/file/d/1pUGF2QGRnaswwDbgz9J9GOQFttDx5hgs/view(DVD HD)</sublink>
+
+<sublink>search</sublink>
+
+<sublink>searchsd</sublink>
+
+</link>
+
+<thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+<fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</fanart>
+
+</item>
