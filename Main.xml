@@ -1,12 +1,12 @@
 <dir>
 
-     <name>>>>>ADDON HEISENBERG<<<<</name>
+     <name>[COLOR lime][B]>>>>ADDON HEISENBERG<<<<[/B][/COLOR]</name>
 
-     <link>http://dabutcher.org/test/screeners.xml</link>
+     <link>Addon</link>
 
      <animated_thumbnail></animated_thumbnail>
 
-     <thumbnail>http://dabutcher.org/test/pic/Screeners.png</thumbnail>
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
 
      <animated_fanart></animated_fanart>
 
@@ -14,34 +14,99 @@
 
 </dir>
 
-<item>
+<dir>
 
-<title>Deadpool (2017)</title>
+     <name>[COLOR gold][B]ENTRA EN LO IMPOSIBLE[/B][/COLOR]</name>
 
-<meta>
+     <link>Addon</link>
 
-<content>movie</content>
+     <animated_thumbnail></animated_thumbnail>
 
-<imdb>tt5726616</imdb>
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
 
-<title>Deadpool</title>
+     <animated_fanart></animated_fanart>
 
-<year>2017</year>
+     <fanart></fanart>
 
-</meta>
+</dir>
 
-<link>
 
-<sublink>https://drive.google.com/a/sec27.edu.mx/file/d/1pUGF2QGRnaswwDbgz9J9GOQFttDx5hgs/view(DVD HD)</sublink>
+<dir>
 
-<sublink>search</sublink>
+     <name>[COLOR gold][B]CINE[/B][/COLOR]</name>
 
-<sublink>searchsd</sublink>
+     <link>Addon</link>
 
-</link>
+     <animated_thumbnail></animated_thumbnail>
 
-<thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
 
-<fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</fanart>
+     <animated_fanart></animated_fanart>
 
-</item>
+     <fanart></fanart>
+
+</dir>
+
+<dir>
+
+     <name>[COLOR gold][B]SERIES[/B][/COLOR]</name>
+
+     <link>Addon</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart></fanart>
+
+</dir>
+
+<dir>
+
+     <name>[COLOR gold][B]MUSICA[/B][/COLOR]</name>
+
+     <link>Addon</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart></fanart>
+
+</dir>
+
+
+<dir>
+
+     <name>[COLOR gold][B]AVISO LEGAL[/B][/COLOR]</name>
+
+     <link>Addon</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart></fanart>
+
+</dir>
+<dir>
+
+     <name>[COLOR lime][B]>>>>ADDON HEISENBERG<<<<[/B][/COLOR]</name>
+
+     <link>Addon</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart></fanart>
+
+</dir>
