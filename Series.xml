@@ -29,3 +29,52 @@
 
 </dir>
 
+<dir>
+
+     <name>[COLOR red][B]Netflix[/B][/COLOR]</name>
+
+     <link>https://raw.githubusercontent.com/AddonHeisenberg/Series/master/Netflix.xml</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://i.imgur.com/g9GohxE.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
+
+
+<dir>
+
+     <name>[COLOR white][B]HBO[/B][/COLOR]</name>
+
+     <link>https://raw.githubusercontent.com/AddonHeisenberg/Series/master/HBO.xml</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://i.imgur.com/0mpXBty.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
+
+
+<dir>
+
+     <name>[COLOR lime][B]AMC[/B][/COLOR]</name>
+
+     <link>https://raw.githubusercontent.com/AddonHeisenberg/Series/master/AMC.xml</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://i.imgur.com/VKGQn9p.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
