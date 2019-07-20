@@ -33,7 +33,7 @@
 
 <dir>
 
-     <name>[COLOR gold][B]ESTRENOS[/B][/COLOR]</name>
+     <name>[COLOR gold][B]TODAS LAS PELICULAS[/B][/COLOR]</name>
 
      <link>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/Todas.xml</link>
 
@@ -47,9 +47,3 @@
 
 </dir>
 
-<plugin>
-  <name>Buscador</name>
-  <link>plugin://plugin.video.Heisenberg/?action=search</link>
-  <thumbnail></thumbnail>
-  <summary>Search</summary>
-</plugin>
