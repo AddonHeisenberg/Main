@@ -47,3 +47,9 @@
 
 </dir>
 
+<plugin>
+  <name>Buscador</name>
+  <link>plugin://plugin.video.Heisenberg/?action=search</link>
+  <thumbnail></thumbnail>
+  <summary>Search</summary>
+</plugin>
