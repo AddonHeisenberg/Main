@@ -65,3 +65,20 @@
 
 </dir>
 
+
+<dir>
+
+     <name>[COLOR gold][B]SAGAS[/B][/COLOR]</name>
+
+     <link>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/Sagas</link>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</dir>
+
