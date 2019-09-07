@@ -30,12 +30,10 @@
      <fanart></fanart>
 
 </dir>
-
 <plugin>
-  <name>30702</name>
-  <link>plugin://plugin.video.Heisenberg/?action=search</link>
-  <thumbnail></thumbnail>
-  <summary>Search</summary>
+    <name>El Retorno</name>
+    <link>plugin://plugin.video.Heisenberg/?action=search</link>
+    <thumbnail></thumbnail>
 </plugin>
 
 <dir>
