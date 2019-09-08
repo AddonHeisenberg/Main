@@ -1,3 +1,19 @@
+
+<item>
+     <name>[COLOR gold][B]TODAS LAS PELICULAS[/B][/COLOR]</name>
+     <link>http://ignore.me</link>
+     <externallink>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/PACK.xml</externallink>
+
+     <animated_thumbnail></animated_thumbnail>
+
+     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
+
+     <animated_fanart></animated_fanart>
+
+     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
+
+</item>
+
 <SetViewMode>500</SetViewMode> 
 <dir>
 
@@ -47,20 +63,6 @@
 
 </dir>
 
-<item>
-     <name>[COLOR gold][B]TODAS LAS PELICULAS[/B][/COLOR]</name>
-     <link>http://ignore.me</link>
-     <externallink>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/PACK.xml</externallink>
-
-     <animated_thumbnail></animated_thumbnail>
-
-     <thumbnail>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg</thumbnail>
-
-     <animated_fanart></animated_fanart>
-
-     <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
-
-</item>
 
 
 <dir>
