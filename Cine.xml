@@ -50,8 +50,8 @@
 <dir>
 
      <name>[COLOR gold][B]TODAS LAS PELICULAS[/B][/COLOR]</name>
-
-     <externallink>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/Todas.xml</externallink>
+     <link>http://ignoreme</link>
+     <externallink>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/PACK.xml</externallink>
 
      <animated_thumbnail></animated_thumbnail>
 
