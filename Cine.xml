@@ -51,7 +51,7 @@
 
      <name>[COLOR gold][B]TODAS LAS PELICULAS[/B][/COLOR]</name>
 
-     <link>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/Todas.xml</link>
+     <externallink>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/Todas.xml</externallink>
 
      <animated_thumbnail></animated_thumbnail>
 
