@@ -47,10 +47,9 @@
 
 </dir>
 
-<dir>
-
+<item>
      <name>[COLOR gold][B]TODAS LAS PELICULAS[/B][/COLOR]</name>
-     <link>http://ignoreme</link>
+     <link>http://ignore.me</link>
      <externallink>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/PACK.xml</externallink>
 
      <animated_thumbnail></animated_thumbnail>
@@ -61,8 +60,7 @@
 
      <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
 
-</dir>
-
+</item>
 
 
 <dir>
