@@ -1,3 +1,4 @@
+
 <SetViewMode>500</SetViewMode> 
 <dir>
 
@@ -84,9 +85,9 @@
 
 <dir>
 
-     <name>[COLOR gold][B]SAGAS[/B][/COLOR]</name>
+     <name>[COLOR gold][B]Selección Peliculas[/B][/COLOR]</name>
 
-     <link>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/Sagas</link>
+     <link>\x68\x74\x74\x70\x73\x3a\x2f\x2f\x64\x72\x69\x76\x65\x2e\x67\x6f\x6f\x67\x6c\x65\x2e\x63\x6f\x6d\x2f\x66\x69\x6c\x65\x2f\x64\x2f\x31\x30\x32\x75\x46\x53\x71\x43\x4b\x48\x42\x51\x6b\x59\x36\x33\x68\x74\x70\x30\x2d\x43\x45\x43\x43\x37\x6d\x39\x4d\x6b\x6c\x35\x61\x2f\x76\x69\x65\x77</link>
 
      <animated_thumbnail></animated_thumbnail>
 
@@ -97,4 +98,3 @@
      <fanart>https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/preview.jpg</fanart>
 
 </dir>
-
