@@ -1,4 +1,35 @@
+
+
 <item>
-<title>[COLOR lime]Buscador Heisenberg[/COLOR]</title>
-<link>$doregex[Heisenberg]</link>
-<jsonrpc>plugin://plugin.video.Heisenberg/?iconimage=https://raw.githubusercontent.com/AddonHeisenberg/Imagenes/master/icon.jpg&amp;mode=17&amp;regexs=%7Bu%27id3%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cr%5Cnimport%20re%2Crequests%2Cxbmc%2Curlresolver%2Ccookielib%2Curllib%2Curllib2%5Cr%5Cnfrom%20urlresolver.plugins.lib%20import%20jsunpack%5Cr%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%2Curl%3D%5C%27%5Bc.param6%5D%5C%27%29%3A%23cLrJIhsDApL%5Cr%5Cn%20%20%20%20try%3A%5Cr%5Cn%20%20%20%20%20%20%20%20mozhdr%20%3D%20%7B%5C%27User-Agent%5C%27%3A%20%5C%27Mozilla/5.0%5C%27%2C%20%5C%27Referer%5C%27%3A%20%5C%27https%3A//drive.google.com/drivefolders%5C%27%7D%5Cr%5Cn%20%20%20%20%20%20%20%20html%20%3D%20requests.get%28url%2C%20headers%3Dmozhdr%2C%20verify%3DFalse%29.text%5Cr%5Cn%20%20%20%20%20%20%20%20part1%20%3D%20re.findall%28%5C%27%28excedi%29%5C%27%2C%20html%29%5B0%5D%5Cr%5Cn%20%20%20%20%20%20%20%20u%20%3D%20xbmc.executebuiltin%28%22XBMC.Notification%28%5BCOLOR%20lime%5DHeisenberg/COLOR%5D%2C%5BCOLOR%20gold%5D.%20Exceso%20de%20usuarios%20superado.%5B/COLOR%5D%2C%2012000%29%22%29%5Cr%5Cn%20%20%20%20except%3A%5Cr%5Cn%20%20%20%20%20%20%20%20u%20%3D%20reproducir%28%29%5Cr%5Cn%20%20%20%20return%20u%5Cr%5Cn%5Cr%5Cn%5Cr%5Cndef%20reproducir%28%29%3A%5Cr%5Cn%20%20%20%20import%20urlresolver%5Cr%5Cn%20%20%20%20url%20%3D%20%5C%27%5Bc.param6%5D%5C%27%5Cr%5Cn%20%20%20%20try%3A%5Cr%5Cn%20%20%20%20%20%20%20%20u%20%3D%20urlresolver.resolve%28url%29%5Cr%5Cn%20%20%20%20except%3A%5Cr%5Cn%20%20%20%20%20%20%20%20u%20%3D%20%5C%27%5Bc.param6%5D%5C%27.replace%28%5C%27https%3A//drive.google.com/file/d/%5C%27%2C%20%5C%27https%3A//www.googleapis.com/drive/v3/files/%5C%27%29.replace%28%5C%27/view%5C%27%2C%20%5C%27%3Falt%3Dmedia%26key%3DAIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw%5C%27%29%5Cr%5Cn%20%20%20%20return%20u%5Cr%5Cn%27%2C%20%27name%27%3A%20u%27id3%27%2C%20%27page%27%3A%20None%7D%2C%20u%27c%27%3A%20%7B%27listrepeat%27%3A%20u%27%5Cr%5Cn%3Ctitle%3E%5BCOLOR%20lime%5D%5Bc.param1%5D%20%5BCOLOR%20aqua%5D%5BCOLOR%20gold%5D%5Bc.param2%5D%5B/COLOR%5D%3C/title%3E%5Cr%5Cn%3Cinfo%3E%5BCOLOR%20white%5D%5Bc.param5%5D%5B/COLOR%5D%3C/info%3E%5Cr%5Cn%3Clink%3E%24doregex%5Bid3%5D%3C/link%3E%5Cr%5Cn%3Cthumbnail%3E%5Bc.param3%5D%3C/thumbnail%3E%5Cr%5Cn%3Cfanart%3E%5Bc.param4%5D%3C/fanart%3E%5Cr%5Cn%27%2C%20%27expres%27%3A%20u%27%28%3Fs%29%3Ctitle%3E%28.%7B0%2C50%7D%24doregex%5Bcapi%5D.*%3F%29%3C.*%3F%3Cyear%3E%28.*%3F%29%3C.*%3Fthumbnail%3E%28.*%3F%29%3C.*%3Ffanart%3E%28.*%3F%29%3C.*%3Finfo%3E%28.*%3F%29%3Curlsolve%3E%28.*%3F%29%3C.*%3F%27%2C%20%27name%27%3A%20u%27c%27%2C%20%27page%27%3A%20u%27https%3A//raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/DB%27%7D%2C%20u%27Buscador%27%3A%20%7B%27expres%27%3A%20u%27%23%24pyFunction%5Cr%5Cnimport%20xbmc%5Cr%5Cnimport%20xbmcaddon%5Cr%5Cnimport%20xbmcgui%5Cr%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cr%5Cn%20%20%20%20dialog%20%3D%20xbmcgui.Dialog%28%29%5Cr%5Cn%20%20%20%20d%20%3D%20dialog.input%28%5C%27Busca%20Tu%20Pelicula%5C%27%2C%20type%3Dxbmcgui.INPUT_ALPHANUM%29.replace%28%22%5Cxe1%22%2C%20%22a%22%29.replace%28%22%5Cxe9%22%2C%20%22e%22%29.replace%28%22%5Cxed%22%2C%20%22i%22%29.replace%28%22%5Cxe1%22%2C%20%22a%22%29.replace%28%22%5Cxfa%22%2C%20%22u%22%29%5Cr%5Cn%20%20%20%20return%20d%5Cr%5Cn%27%2C%20%27cookiejar%27%3A%20%27%27%2C%20%27name%27%3A%20u%27buscador%27%2C%20%27page%27%3A%20None%7D%2C%20u%27capi%27%3A%20%7B%27expres%27%3A%20u%22%23%24pyFunction%5Cr%5Cnimport%20xbmc%5Cr%5Cnimport%20xbmcaddon%5Cr%5Cnimport%20xbmcgui%5Cr%5Cndef%20GetLSProData%28page_data%2CCookie_Jar%2Cm%29%3A%5Cr%5Cn%20%20%20%20busca%20%3D%20%27%24doregex%5Bbuscador%5D%27%5Cr%5Cn%20%20%20%20return%20busca.title%28%29%5Cr%5Cn%22%2C%20%27cookiejar%27%3A%20%27%27%2C%20%27name%27%3A%20u%27capi%27%2C%20%27page%27%3A%20None%7D%7D%26amp%3Burl%3D%24doregex%5Bc%5D</jsonrpc>
+<title>BUSCADOR</title>
+<link>$doregex[makelist1]</link>
+ 
+ 
+<regex>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>Heisenberg</title>
+<link>Http://ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres>u'(?s)<title>(.{0,50}$doregex[capi].*?)<.*?<year>(.*?)<.*?thumbnail>(.*?)<.*?fanart>(.*?)<.*?info>(.*?)<urlsolve>(.*?)<.*?'</expres>
+<page>https://raw.githubusercontent.com/AddonHeisenberg/Peliculas/master/DB</page>
+</regex>
+ 
+<regex>
+<name>search</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    dialog = xbmcgui.Dialog()
+    d = dialog.input('Buscador:', type=xbmcgui.INPUT_ALPHANUM).replace(" ", "+")
+    return d
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
